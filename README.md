@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakshit Dhamija</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Robotics and Artificial Intelligence Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakshit-dhamija" alt="rakshit-dhamija" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshit-dhamija&label=Profile%20views&color=0e75b6&style=flat" alt="rakshit-dhamija" /> </p>
 
 - 🔭 I’m currently working on **Web development, AI and Ml models**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rakshitdhamija1108@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YjWjUNekh9owAb5hRdyzie4NsqFcxnNL/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YjWjUNekh9owAb5hRdyzie4NsqFcxnNL/view?usp=sharing](https://drive.google.com/file/d/1YjWjUNekh9owAb5hRdyzie4NsqFcxnNL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshit-dhamija&show_icons=true&locale=en&layout=compact" alt="rakshit-dhamija" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakshit-dhamija&show_icons=true&locale=en" alt="rakshit-dhamija" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshit-dhamija&" alt="rakshit-dhamija" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakshit-dhamija&show_icons=true&theme=dark&locale=en" alt="rakshit-dhamija" /></p>
